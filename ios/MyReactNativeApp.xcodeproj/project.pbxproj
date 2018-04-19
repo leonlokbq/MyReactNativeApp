@@ -1224,6 +1224,7 @@
 				PRODUCT_NAME = MyReactNativeApp;
 				PROVISIONING_PROFILE = "f7489c6d-b306-40ec-8298-7a38c00d8fff";
 				PROVISIONING_PROFILE_SPECIFIER = "HKE React Native Dev Profile";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1247,6 +1248,7 @@
 				PRODUCT_NAME = MyReactNativeApp;
 				PROVISIONING_PROFILE = "068369aa-ff75-4fc9-8dba-8e9a0f2a7af4";
 				PROVISIONING_PROFILE_SPECIFIER = "HKE React Native Adhoc Profile";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
